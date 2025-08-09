@@ -1,8 +1,8 @@
 import React from "react";
-import Kahani from "../Assets/Kahani.png";
-import wealthWarden from "../Assets/wealthWarden.jpeg";
+import Kahani from "../assets/Kahani.png";
+import wealthWarden from "../assets/wealthWarden.jpeg";
 import { Link } from "react-router-dom";
-import shopora from "../Assets/shopora.jpeg";
+import shopora from "../assets/shopora.jpeg";
 
 const projects = [
 	{

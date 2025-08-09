@@ -1,5 +1,5 @@
 import React from "react";
-import github_PNG76 from '../Assets/github_PNG76.png';
+import github_PNG76 from '../assets/github_PNG76.png';
 
 const Contact = () => {
   return (

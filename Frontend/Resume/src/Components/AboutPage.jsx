@@ -1,6 +1,6 @@
 import React from 'react'
-import WhitePaper from '../Assets/WhitePaper.jpeg'
-import Karan from '../Assets/Karan.jpg'
+import WhitePaper from '../assets/WhitePaper.jpeg'
+import Karan from '../assets/Karan.jpg'
 
 const AboutPage = () => {
   return (

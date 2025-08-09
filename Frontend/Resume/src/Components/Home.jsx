@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
-import Karan from '../Assets/Karan.jpg';
-import WhitePaper from '../Assets/WhitePaper.jpeg';
+import Karan from '../assets/Karan.jpg';
+import WhitePaper from '../assets/WhitePaper.jpeg';
 import { Link } from 'react-scroll';
 
 const Home = () => {

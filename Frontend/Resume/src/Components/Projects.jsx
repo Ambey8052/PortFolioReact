@@ -1,6 +1,6 @@
 import React from "react";
 import Kahani from "../Assets/Kahani.png";
-import wealthWarden from "../Assets/wealth-warden.jpeg";
+import wealthWarden from "../Assets/wealthWarden.jpeg";
 import { Link } from "react-router-dom";
 import shopora from "../Assets/shopora.jpeg";
 
